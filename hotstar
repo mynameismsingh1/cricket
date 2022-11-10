@@ -1,0 +1,7 @@
+#EXTM3U    x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+
+#EXTINF:-1  tvg-id="840"  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png"   group-title="Devotional",   Shirdi Sai Baba
+http://live12p.akt.hotstar-cdn.net/hls/live/2003704/icct20wc2022/hin/1540019065/15mindvrm010c6ff06acb904adc97f341e5eb63f32210november2022/master_6.m3u8|user-agent=Hotstar;in.startv.hotstaronly/12.3.7.99999 (Android/12)-M&cookie=hdntl=exp=1668147785~acl=*icct20wc2022*~id=c2ab09f6b8234a6c1c79b8a7c0c9f72b~data=ip%3d9RW9Jf329oZ2gzDZzbisss-userid%3dilnpIBdvizs1WfHQ4wTmGzk0vr39l3n3Jg68fZgD9YXc-did%3dhAMMQkspjizuTABOFLXGZ8pAVjPux7kVxHSJbJ66hi44pIJyahxd2Tr-cc%3din-~hmac=7c88a1d05c24978923897f926bca66f014c04a8d267e441640fef96180997c93
+
+#EXTINF:-1  tvg-id="842"  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png"   group-title="Spiritual",   Somnath Temple
+https://unknown-king.herokuapp.com/master.m3u8|User-Agent=Hotstar;in.startv.hotstar.star/12.3.6.99999 (Android/11)-M&cookie=hdntl=exp=1668149128~acl=*icct20wc2022*~id=c2fd9b5be1ed1f6060dbf23b0bdce630~data=ip%3d4B1nfBD5vGBsurtnWRNgPevcOduTC2AjKiqQ3X0F0CDw2sfLK3niHQ6-userid%3dTyJf3LcTu3p2vMeStbVjJWOjLzzGGRH4X4qRSH7218FV-did%3dOcgTcVMNz1Gu7WPXZTIc8b1Crnud46O1bnqlMGaVwXsb8KDVsBCaye0-cc%3din-~hmac=257556490d8b65917a6dd1489ed6eb87da80fb3420269a39b798b953b7a3a75e
